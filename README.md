@@ -1,6 +1,7 @@
 # SpotifyMobileStreamer
 Unlock the full potential of your music-streaming campaigns with a lightweight, API-driven powerhouse built for pros.
 
+[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-26A5E4?logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM_USERNAME)
 
 - **API-Only Streaming**  
   Pure-API approach—no browsers or desktop clients required.
