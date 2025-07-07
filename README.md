@@ -10,3 +10,7 @@ Key Features:
 ▫️ Real-Time Analytics & Reporting: Drill down on listeners, stream counts, invalid accounts, and performance trends as they happen.
 ▫️ Versatile Play Modes: Artist Name Search, Song Name Search, Listener's Own Library or All Positions—across Albums, Playlists, and Radio.
 ▫️ Custom Packages: We’ve got you covered with tailored packages to match your unique workflow.
+
+
+https://github.com/user-attachments/assets/5063dc59-e26c-4ea2-a30a-a2043138e5bd
+
